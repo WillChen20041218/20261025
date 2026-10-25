@@ -1,4 +1,4 @@
 # HEADLINE
 ## title
 ### subtitle
-! [lucy](lucy/Lucy.jpg)
+![lucy](lucy/Lucy.jpg)
